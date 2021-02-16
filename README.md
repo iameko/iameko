@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @iameko or you can call me Eko
+- 👀 I’m interested in doing research
+- 🌱 I’m currently learning linked data, semantic web, and knowledge graph
+- 💞️ I’m looking to collaborate on those technologies above and also machine learning
+- 📫 How to reach me? You can use email ekoteguh dot my dot id at gmail dot com
